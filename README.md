@@ -1,51 +1,65 @@
-<h1 align="center">Hi 👋, I'm Noam Bramy</h1>
-<h3 align="center">A passionate Fullstack Web Developer - Junior</h3>
+<h1 align="center">שלום! אני נועם בראמי 👋</h1>
+<h3 align="center">Fullstack Web Junior Developer</h3>
 
----
-
-- 🎓 Student at **INT - Jolt College**
-- 🛠️ Technologies I work with:
-  - **Frontend:** React, React Native, TypeScript, SCSS, HTML, Bootstrap
-  - **Backend:** Node.js, Lua, PHP
-  - **Database:** MySQL, NoSQL
-- 💻 Tools & Platforms:
-  - Visual Studio Code, XAMPP, HeidiSQL, Microsoft SQL Server 2000
-- 🌐 Experience in building landing pages and websites for clients
-- 🌱 Currently learning & improving my skills in advanced web development
-
----
-
-### 🧰 Languages and Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&color=blue" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6" />
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=green" />
+  <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=4479A1" />
+  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🧑‍🎓 עליי:
 
-![Noam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoamBramy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoamBramy&layout=compact&theme=radical)
+- 👨‍🎓 לומד במכללת **INT Jolt College**
+- 🛠️ מתמחה בפיתוח מערכות Fullstack עם ניסיון בפרויקטים אישיים ומסחריים
+- 💼 ניסיון בבניית אתרי תדמית ללקוחות (כולל עיצוב ופיתוח)
+- 🧠 שולט בשפות: Lua, TypeScript, Node.js, PHP, HTML, SCSS, SQL
+- 📚 מכיר ספריות: `Express`, `Bootstrap`, `NoSQL`, `EJS`, ועוד...
 
 ---
 
-### 📫 Contact Me
+## 🧰 טכנולוגיות וסביבות עבודה:
 
-- 📧 Email: noam@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here/)
-- 🌍 [Portfolio](https://your-portfolio-site.com)
+| שפות קוד | פריימוורקים וספריות | כלים וסביבות |
+|----------|----------------------|--------------|
+| Lua, PHP, TS, HTML, SCSS, SQL | Express, Bootstrap, NoSQL | VSCode, XAMPP, HeidiSQL, MS SQL Server 2000 |
+
+---
+
+## 🖥️ ממשקים שעבדתי איתם:
+
+- 🔧 **XAMPP** לניהול שרתים מקומיים
+- 🧩 **HeidiSQL** לניהול בסיסי נתונים
+- 💡 **Visual Studio Code** כסביבת עבודה ראשית
+- 🗃️ **Microsoft SQL Server 2000** לעבודה עם דאטות מורכבות
+- 🌐 בניית אתרים תדמיתיים עם דגש על UI / UX
+
+---
+
+## 📫 צור קשר:
+
+- ✉️ Email: noambramy.dev@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/noambramy](https://linkedin.com/in/noambramy)  
+- 🌐 Portfolio (בהקמה): [noambramy.dev](https://noambramy.dev)
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoamBramy&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoamBramy&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 💡 משפט לסיום:
+
+> "תכנות זה לא רק קוד – זה יצירתיות, פתרון בעיות ואומנות דיגיטלית."  
+> – נועם בראמי
 
 ---
 

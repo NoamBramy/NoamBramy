@@ -1,16 +1,16 @@
 <h1 align="center">Hey there 👋 I'm Noam Bramy</h1>
-<h3 align="center">17 y/o Junior Fullstack Developer | Started coding at 10 | Passionate about modern web technologies</h3>
+<h3 align="center">17 y/o Junior Fullstack Developer | Passionate about modern web technologies</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying at **INT - Jolt College**
-- 🔥 I started coding at the age of **10**, always fascinated by how things work behind the scenes
-- 💼 Experience building custom websites for clients (mainly business & portfolio sites)
-- 🧠 Self-learner with a huge curiosity for programming and modern tools
-- 💬 I speak Lua, TypeScript, Node.js, PHP, MySQL, HTML, SCSS & more
-- 🚀 Always looking for new challenges and collaborations!
+- 🎓 Currently studying at **INT - Jolt College**
+- 🔥 I embarked on my coding journey at the age of **10**, driven by a deep fascination for how systems work behind the scenes and how technology powers the world.
+- 💼 Gained practical experience by developing and delivering custom-built websites for clients, primarily focusing on business and portfolio sites.
+- 🧠 A self-driven learner with a profound curiosity for modern development tools and technologies.
+- 💬 Proficient in a broad range of programming languages and frameworks, including **Lua, TypeScript, Node.js, React, React Native, PHP, MySQL, HTML, SCSS**, and others.
+- 🚀 Eager to explore new challenges, collaborate on innovative projects, and continue growing as a Fullstack Developer.
 
 ---
 

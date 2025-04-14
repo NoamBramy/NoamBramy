@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Noam Bramy</h1>
-<h3 align="center">Aspiring Fullstack Web Developer | Junior Level | Passionate about building clean and modern web applications</h3>
+<h1 align="center">Hey there 👋 I'm Noam Bramy</h1>
+<h3 align="center">17 y/o Junior Fullstack Developer | Started coding at 10 | Passionate about modern web technologies</h3>
 
 ---
 
-## 🎓 About Me
+## 👨‍💻 About Me
 
-- 💡 Junior Fullstack Web Developer with a strong passion for learning and building.
-- 🧠 Studying at **INT - Jolt College**, constantly improving my skills.
-- 👨‍💻 Experience in building websites for clients (portfolio & business).
-- 🌱 Exploring advanced JavaScript, backend logic, and cloud technologies.
-- 🤝 Team player with a hunger for growth.
+- 🎓 Studying at **INT - Jolt College**
+- 🔥 I started coding at the age of **10**, always fascinated by how things work behind the scenes
+- 💼 Experience building custom websites for clients (mainly business & portfolio sites)
+- 🧠 Self-learner with a huge curiosity for programming and modern tools
+- 💬 I speak Lua, TypeScript, Node.js, PHP, MySQL, HTML, SCSS & more
+- 🚀 Always looking for new challenges and collaborations!
 
 ---
 
@@ -38,29 +39,46 @@
 
 ---
 
-## 🧰 Tools I Use
+## 🧰 Tools & Platforms I Use
 
-- Visual Studio Code  
-- XAMPP  
-- HeidiSQL  
-- Microsoft SQL Server 2000  
+<table>
+  <tr>
+    <td>🖥️ Visual Studio Code</td>
+    <td>📦 XAMPP</td>
+    <td>🛢️ HeidiSQL</td>
+    <td>🧠 Microsoft SQL Server 2000</td>
+  </tr>
+  <tr>
+    <td>📬 Postman</td>
+    <td>🐙 Git & GitHub</td>
+    <td>🧩 GitKraken</td>
+    <td>🌐 cPanel / FTP Hosting</td>
+  </tr>
+  <tr>
+    <td>🖥️ Remote Desktop</td>
+    <td>📁 FileZilla</td>
+    <td>🚀 Firebase (Learning)</td>
+    <td>💻 Heroku / Vercel</td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 GitHub Stats
 
-![Noam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoamBramy&show_icons=true&theme=radical)
+![Noam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoamBramy&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoamBramy&layout=compact&theme=radical)
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: noam@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here/)  
-- 🌐 [Portfolio](https://your-portfolio-site.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoamBramy&layout=compact&theme=tokyonight)
 
 ---
 
-<h4 align="center">Thank you for visiting my GitHub! Let's connect and build something great together 💻🚀</h4>
+## 📫 Let's Connect
+
+- 📧 Email: your@email.com  
+- 🌍 Portfolio: [Coming Soon...]  
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)  
+- 🧠 Discord: noam_b#1234
+
+---
+
+<h4 align="center">Thanks for stopping by! I'm always excited to work on new things and grow as a developer 💻🔥</h4>

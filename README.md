@@ -74,10 +74,9 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: your@email.com  
+- 📧 Email: noambaramy@email.com  
 - 🌍 Portfolio: [Coming Soon...]  
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- 🧠 Discord: noam_b#1234
+- 💼 LinkedIn: [Coming Soon...]
 
 ---
 
